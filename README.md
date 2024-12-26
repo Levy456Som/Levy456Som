@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello fellow enthusiasts  👋
 
 <!--
 **Levy456Som/Levy456Som** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
